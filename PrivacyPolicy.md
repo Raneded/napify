@@ -1,14 +1,25 @@
-1. Introduction
-   Welcome to Napify, Your privacy is important to us. This Privacy Policy explains our commitment to protecting your privacy and ensuring transparency in how our mobile application ("App") operates. By using the App, you agree to the terms of this Privacy Policy.
+# Napify Privacy Policy
+**Effective Date:**  March 14 2025
+## **Introduction**
+Napify is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application, **Napify**.
 
-2. No Data Collection
-   We do not collect, store, or share any personal data or information from our users. Our App is designed to function without requiring any user data, ensuring complete privacy.
+## **Information We Do Not Collect**
+Napify does not collect, store, or share any personal data, including but not limited to:
+- Names, email addresses, or phone numbers
+- Device information or location data
+- User activity data
 
-3. No Third-Party Sharing
-   Since we do not collect any data, we do not share any user information with third parties, including advertisers, analytics providers, or other external services.
+## **Network Access and Third-Party Services**
+Napify requires internet access to serve advertisements through Google AdMob. While we do not collect any data ourselves, Google AdMob may collect and process information per its own privacy policy. We encourage you to review Google's privacy practices here: [Google Privacy Policy](https://policies.google.com/privacy).
 
-4. Children's Privacy
-   Our App does not collect any data, including from children under 13 (or the applicable age in your jurisdiction). Since we do not gather any information, there is no risk of accidental data collection.
+## **Advertisements**
+Napify might display ads through Google AdMob, which may use cookies or similar tracking technologies to provide personalized advertisements. You can manage your ad preferences through your device settings or Google’s ad settings.
 
-5. Changes to This Privacy Policy
-   We may update this Privacy Policy periodically. Any changes will be posted within the App, and continued use of the App constitutes acceptance of the revised policy.
+## **Changes to This Privacy Policy**
+We may update this Privacy Policy from time to time. Any changes will be reflected in this document with an updated effective date. We encourage users to review this Privacy Policy periodically.
+
+## **Contact Us**
+If you have any questions or concerns about this Privacy Policy, please contact us at:  
+**Email:** pronaycoding@gmail.com  
+
+By using Napify, you agree to this Privacy Policy.
